@@ -24,7 +24,7 @@ Di dalam website ini menggunakan berbagai macam tag dan sintaks baik itu HTML ma
     <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
   </head>
   ```
-  
+
     ```
     <header>
       <img id="logo" src="img/sample-logo.png" width="200px" />
@@ -38,7 +38,7 @@ Di dalam website ini menggunakan berbagai macam tag dan sintaks baik itu HTML ma
     </header>
     ```
   **CSS**
-   
+
   ```
   .container {
   padding-top: 100px;
@@ -48,7 +48,7 @@ Di dalam website ini menggunakan berbagai macam tag dan sintaks baik itu HTML ma
   height: 700px;
   }
   ```
- 
+
   ```
     header {
   position: fixed;
@@ -58,10 +58,13 @@ Di dalam website ini menggunakan berbagai macam tag dan sintaks baik itu HTML ma
   width: 100%
   }
   ```
-  
-  
+
+
   ### About Me
-  
+
   > ***It took me quite a long time to develope a voice, and now that I have it, I am not going to be silent.*** -- Madeline Albright
-  
+
   Saya adalah calon Developer masa depan yang sampai saat ini masih terus belajar dan berjuang mengejar mimpi sebagai web developer melalui Hacktiv8.
+
+  ### Future Plan
+  
