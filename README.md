@@ -67,4 +67,4 @@ Di dalam website ini menggunakan berbagai macam tag dan sintaks baik itu HTML ma
   Saya adalah calon Developer masa depan yang sampai saat ini masih terus belajar dan berjuang mengejar mimpi sebagai web developer melalui Hacktiv8.
 
   ### Future Plan
-  
+  Website ini nantinya akan menjadi sebuah etalase portofolio dari karya-karya yang telah saya kerjakan. Pada akhirnya ketika seseorang atau perusahaan ingin menggunakan jasa atau memperkerjakan saya cukup mengunjungi website ini untuk mendapatkan informasi tentang diri saya.
