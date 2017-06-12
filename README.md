@@ -62,6 +62,6 @@ Di dalam website ini menggunakan berbagai macam tag dan sintaks baik itu HTML ma
   
   ### About Me
   
-  > ***It took me quite a long time to develope a voice, and now that I have it, I am not going to be silent.*** -- Madeline Albright
+  > ***It took me quite a long time to develop a voice, and now that I have it, I am not going to be silent.*** -- Madeline Albright
   
   Saya adalah calon Developer masa depan yang sampai saat ini masih terus belajar dan berjuang mengejar mimpi sebagai web developer melalui Hacktiv8.
